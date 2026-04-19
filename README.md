@@ -9,11 +9,10 @@ I'm **[`VISAKH`](https://www.youtube.com/@VISAKH1111)**, CCNA Instructor,Network
 
 - **Name**: VISAKH
 - **From**: India
-- **Bug Hunter** | **Security Researcher** | **Freelance Penetration Tester**
-- I have experience in bug hunting, vulnerability assessment, penetration testing, and social engineering.
-- Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
-- I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **cybersecurity certifications**.
-
+- **CCNA Instructor** | **Network Trainer** | **System Administrator**
+- I have experience in networking, hardware, and client support.
+- Continuously improving my skills through lab practice and real-world troubleshooting.
+- Currently learning and exploring **Cybersecurity**, **Network Security**, and advanced networking concepts.
 </details>
 <br>
 
@@ -44,10 +43,10 @@ I'm **[`VISAKH`](https://www.youtube.com/@VISAKH1111)**, CCNA Instructor,Network
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OSCP Certification" />
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
-
+<img src="https://img.shields.io/badge/CCNA-Instructor-1BA0D7?style=for-the-badge&logo=cisco&color=000000" alt="CCNA Instructor" />
+<img src="https://img.shields.io/badge/Networking-Trainer-0078D4?style=for-the-badge&color=000000" alt="Network Trainer" />
+<img src="https://img.shields.io/badge/System-Administrator-3F51B5?style=for-the-badge&color=000000" alt="System Administrator" />
+<img src="https://img.shields.io/badge/Cybersecurity-Learner-000000?style=for-the-badge&logo=hackthebox&color=000000" alt="Cybersecurity Learner" />
 </div>
 
 ---
